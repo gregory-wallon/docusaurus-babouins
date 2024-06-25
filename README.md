@@ -2,13 +2,7 @@
 
 Bienvenue dans le projet **Babouins - Docusaurus** pour la classe **BTS SIO** ! Ce projet a pour but de centraliser toutes nos procédures, commandes et documentations apprises en cours et de les structurer correctement. Grâce à ce dépôt, nous pourrons tous contribuer à la documentation et la valider ensemble en utilisant un système de fork avec GitHub et l'intégration continue (CI/CD).
 
-
-
-
-> ⚠️ Actuellement en <u>cours de développement</u>, toutes les explications seront fournies sur [babouins.fr](https://babouins.fr). Ce que vous vous apprêtez à lire sera le <u>but final</u> de ce projet. ⚠️
-
-
-
+> ⚠️ Actuellement en <u>cours de développement</u>, toutes les explications seront fournies sur <a href="https://babouins.fr" target="_blank">babouins.fr</a>. Ce que vous vous apprêtez à lire sera le <u>but final</u> de ce projet. ⚠️
 
 ## 🎉 Présentation
 
@@ -40,8 +34,7 @@ Pour installer et lancer le projet en local, suivez les étapes suivantes :
     npx docusaurus start
     ```
 
-
-Le site sera disponible à l'adresse [babouins.fr](https://babouins.fr) et nous avons notre forum de discussion à l'adresse [forum.babouins.fr](https://forum.babouins.fr).
+Le site sera disponible à l'adresse <a href="https://babouins.fr" target="_blank">babouins.fr</a> et nous avons notre forum de discussion à l'adresse <a href="https://forum.babouins.fr" target="_blank">forum.babouins.fr</a>.
 
 ## 📝 Contribution
 
@@ -65,12 +58,11 @@ Pour contribuer au projet :
     ```bash
     git push origin <branch>
     ```
-6. **Ouvrez** une pull request sur le dépôt principal afin que elle soit validé par l'équipe d'admin de la classe.
+6. **Ouvrez** une pull request sur le dépôt principal afin qu'elle soit validée par l'équipe d'administration de la classe.
 
 ## ✅ Validation des Contributions
 
-Toutes les contributions doivent être validées par au moins deux personnes de la classe. Les pull requests seront examinées et testées avant d'être fusionnées (merge). Utilisez le système de commentaires pour suggérer des améliorations et assurer la qualité de la documentation sur notre [forum.babouins.fr](https://forum.babouins.fr).
-
+Toutes les contributions doivent être validées par au moins deux personnes de la classe. Les pull requests seront examinées et testées avant d'être fusionnées (merge). Utilisez le système de commentaires pour suggérer des améliorations et assurer la qualité de la documentation sur notre <a href="https://forum.babouins.fr" target="_blank">forum.babouins.fr</a>.
 
 ## 📦 Déploiement
 
